@@ -203,7 +203,7 @@ h1, h2, p {
 /*Tie Image and Text*/
 .ties {
 	display: inline-block;
-	width: 8%;
+	width: 7%;
 	margin: 0 1.5em 0 0;
 }
 .ties img {

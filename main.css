@@ -326,15 +326,15 @@ h1, h2, p {
 }
 #contactWrapper {
 	/*background-color: grey;*/
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
 }
 .contactBox {
-	width: 21%;
+	width: 19%;
 	/*background-color: pink;*/
 	display: inline-block;
 	vertical-align: top;
-	margin: 0 2em 1em 0
+	margin: 0 3em 1em 0
 }
 .contactBox h2 {
 	font-size: 1.2em;
